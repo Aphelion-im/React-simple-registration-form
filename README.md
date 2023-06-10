@@ -1,4 +1,4 @@
-# Simple React Sign in form with React Hook Form
-10-6-2023
+# Simple React Registration form with React Hook Form
+11-6-2023
 
-![Screenshot sign in form](./src/assets/signin-form.jpg)
+![Screenshot sign in form](./src/assets/registration-form.jpg)
